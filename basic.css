@@ -1,0 +1,74 @@
+body
+{
+    background-color: #500101;
+    padding-top: 300px;
+}
+
+h1,ul
+{
+    font-family: sans-serif;
+}
+
+hr
+{
+    margin: 0 30px;
+}
+
+.profile
+{
+    background-color: #a8a8a8; 
+    border-top: 10px solid #380000;
+    border-bottom: 10px solid #380000;
+    border-left: 10px solid #380000;
+    border-right: 10px solid #380000;
+    border-radius: 10px;
+    margin: 0 auto;
+    width: 800px;
+
+    text-align: center;
+}
+
+.profile-image
+{
+    width: 200px;
+    height: 200px;
+    border-radius: 75px;
+    margin-top: -100px;
+}
+
+.text
+{
+    color: rgb(51, 51, 51);
+    text-align: left;
+    font-size: 1.2em;
+    list-style: none;
+}
+
+.SNS-image
+{
+    filter: contrast(0%);
+    width: 100px;
+    height: 100px;
+}
+
+.SNS-text
+{
+    color: white;
+    text-align: left;
+    font-size: 1.0em;
+    list-style: none;
+}
+
+.blog-image
+{
+    filter: contrast(0%);
+    width: 100px;
+    height: 100px;
+    margin-left: ;
+}
+
+/*
+.youtube
+{
+}
+*/
